@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/msingh/.msvscode.hdinsight/hdinsightJupyter/bin/python",
+    "jupyter.jupyterLaunchTimeout": 240000
+}
